@@ -8,3 +8,6 @@ you can orbit, zoom and pan the model freely.
 ## Live Demo
 
 🔗 **[View Live Project](https://manojailuri.github.io/voltix/)**
+
+
+"Coca Cola Low Poly" (https://skfb.ly/pAzqr) by Lubosup is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
